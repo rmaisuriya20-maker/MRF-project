@@ -1,0 +1,7 @@
+# Pneumonia X-Ray pipeline
+numpy>=1.20
+opencv-python>=4.5
+Pillow>=8.0
+scikit-learn>=1.0
+tensorflow>=2.10
+streamlit>=1.20
